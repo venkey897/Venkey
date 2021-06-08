@@ -1,0 +1,26 @@
+body
+{
+margin:0;
+padding:0;
+top:100px;
+background:#585e3494;
+}
+.text
+{
+    background-color: bisque;
+top:150px;
+width:2000px;
+position:absolute;
+color:crimson;
+}
+
+.home
+{
+    background-color: #00e1ff;
+    width:400px;
+}
+.log
+{
+    position: absolute;
+    left: 200px;
+}
